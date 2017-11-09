@@ -1,0 +1,1 @@
+Postfix.o: ../Postfix.cpp
