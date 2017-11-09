@@ -1,8 +1,8 @@
 /*
  * BST.h
  *
- *  		Created on: November 7, 2017
- *      Duc Nguyen & Amirali Safaei
+ *      Created on: November 7, 2017
+ *      Amirali Safaei
  *		CIS 22C, Lab 6
  *		Instructor: Jennifer Parrish
  */
